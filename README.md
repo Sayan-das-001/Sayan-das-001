@@ -1,14 +1,34 @@
-### Hi there 👋, I'm Sayan Das
+# 👋 Hello, I'm Sayan Das!
 
-- 👀 I’m interested in cybersecurity, web development, and exploring the latest tech trends.
-- 🌱 I’m currently learning full stack web development with a focus on backend technologies.
-- 💞️ I’m looking to collaborate on projects related to cybersecurity, web development, and innovative tech solutions.
-- 📫 How to reach me: 
-  - [LinkedIn](https://www.linkedin.com/in/sayan-das-05a255316/)
-  - WhatsApp: +917047357873
-  - [Instagram](https://www.instagram.com/l.u.c.i.f.e.r_001_/)
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I love diving deep into the world of ethical hacking and discovering new ways to enhance online security.
+🌟 **Penetration Tester | CyberSecurity Enthusiast | Frontend Developer | Student**
 
-<!---
-Sayan-das-001/Sayan-das-001 is a ✨ special ✨
+Welcome to my GitHub profile! I'm Sayan, a dedicated CyberSecurity Researcher with a passion for solving complex problems and building efficient solutions. My journey in tech is fueled by a relentless curiosity and a drive to continuously improve, learn and innovate.
+
+## 📚 About Me
+
+- 🔭 **Currently working on:** Exciting web development projects and hoping to contributing to open-source.
+- 🌱 **Learning:** Bash Scripting, Penetration Tools, and exploring the depths of Networkings.
+- 👯 **Looking to collaborate on:** Innovative projects that challenge my skills and knowledge.
+- 💬 **Ask me about:** Linux, Python, and any kind of Tech related to CyberSecurity.
+- 📫 **How to reach me:**  [LinkedIn](https://www.linkedin.com/in/sayan-das-05a255316/) | [l.u.ci.f.e.r_001_ on Instagram](https://www.instagram.com/l.u.c.i.f.e.r_001_/)
+
+
+## 🛠️ Skills & Tools
+
+- **Languages:** Bash, Python, C, Java, HTML, CSS, Google Dorking
+- **Tools:** Linux tools, GitHub, VSCode,
+
+## 📊 GitHub Stats
+
+[![Sayan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sayan-das-001&show_icons=true&theme=radical)](https://github.com/Sayan-das-001/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sayan-das-001&layout=compact&theme=radical)
+
+
+## 🌐 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sayan-das-05a255316/)
+
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/l.u.c.i.f.e.r_001_/)
+
+
+Thanks for stopping by! Let's build something amazing together.
