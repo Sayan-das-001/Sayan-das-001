@@ -20,9 +20,8 @@ Welcome to my GitHub profile! I'm Sayan, a dedicated CyberSecurity Researcher wi
 
 ## 📊 GitHub Stats
 
-[![Sayan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sayan-das-001&show_icons=true&theme=radical)](https://github.com/Sayan-das-001/github-readme-stats)
+[![Sayan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sayan-das-001&show_icons=true&theme=radical)]
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sayan-das-001&layout=compact&theme=radical)
-
 
 ## 🌐 Connect with Me
 
