@@ -6,7 +6,7 @@ Welcome to my GitHub profile! I'm Sayan, a dedicated CyberSecurity Researcher wi
 
 ## 📚 About Me
 
-- 🔭 **Currently working on:** Exciting web development projects and hoping to contributing to open-source.
+- 🔭 **Currently working on:** Exciting web development projects and hoping to contributing to Cybersecurity Field.
 - 🌱 **Learning:** Bash Scripting, Penetration Tools, and exploring the depths of Networkings.
 - 👯 **Looking to collaborate on:** Innovative projects that challenge my skills and knowledge.
 - 💬 **Ask me about:** Linux, Python, and any kind of Tech related to CyberSecurity.
