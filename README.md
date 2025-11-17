@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Sayan Das!
 
-🌟 **Penetration Tester | CyberSecurity Enthusiast | Frontend Developer | Student**
+🌟 **CyberSecurity Enthusiast | Frontend Developer | Student**
 
 Welcome to my GitHub profile! I'm Sayan, a dedicated CyberSecurity Researcher with a passion for solving complex problems and building efficient solutions. My journey in tech is fueled by a relentless curiosity and a drive to continuously improve, learn and innovate.
 
